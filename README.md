@@ -13,13 +13,13 @@
 - Member 2: MUHAMMED RAFZAN R - COLLEGE OF ENGINEERING,PERUMON
 
 ### Project Description
-[2-3 lines about what your project does]
+A boundless battlefield where the board stretches endlessly and each piece wields unique magical powers! Cast spells, teleport knights, and bend the rules in this legendary twist on classic chess.it is useless , believe it.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+chess have a border and it is a big problem.Because it limits the freedom of the chess pieces.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+To create a chess board without any border and some extra pieces to give the chesss pieces some company.
 
 ## Technical Details
 ### Technologies/Components Used
