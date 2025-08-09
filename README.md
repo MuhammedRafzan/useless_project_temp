@@ -62,7 +62,7 @@ Chaos Engine: A combination of random number generators and audio triggers ensur
 The game uses 2D scenes for all elements, UI nodes for player interaction, and GDScript for logic. The bugs are not glitches to be fixed—they are features to be celebrated.
 
 # Screenshots (Add at least 3)
-<img src="screenshot1.png" alt="Description" width="300">
+<img src="https://github.com/MuhammedRafzan/useless_project_temp/blob/main/screenshot1.jpg" alt="Description" width="300">
 
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
