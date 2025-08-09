@@ -73,7 +73,7 @@ It is the main menu.
 
 ### Project Demo
 # Video
-[▶ Watch Video](videos/demo.mp4)
+[▶ Watch Video](https://drive.google.com/file/d/1J6GiMJs0Bs5nbmvlu33NxJ-4RKNQsy3T/view?usp=drive_link)
 *Explain what the video demonstrates*
 
 ## Team Contributions
