@@ -13,29 +13,21 @@
 - Member 2: MUHAMMED RAFZAN R - COLLEGE OF ENGINEERING,PERUMON
 
 ### Project Description
-A boundless battlefield where the board stretches endlessly and each piece wields unique magical powers! Cast spells, teleport knights, and bend the rules in this legendary twist on classic chess.it is useless , believe it.
+Most Buggy Game in the World is a chaotic twist on chess where nothing works as intended—pieces teleport randomly, rules break mid-game. It’s less about strategy and more about surviving the glitches.
 
 ### The Problem (that doesn't exist)
-chess have a border and it is a big problem.Because it limits the freedom of the chess pieces.
+chess is to strategic and good for brain.
 
 ### The Solution (that nobody asked for)
-To create a chess board without any border and some extra pieces to give the chesss pieces some company.
+Make the most brainrot chess in the world.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+- GDscript
+- GODOT
 ### Implementation
-For Software:
+For Software:Pla
 # Installation
 [commands]
 
