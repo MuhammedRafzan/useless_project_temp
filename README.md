@@ -73,7 +73,7 @@ It is the main menu.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
 *Explain what the video demonstrates*
 
 ## Team Contributions
