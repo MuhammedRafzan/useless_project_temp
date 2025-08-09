@@ -73,7 +73,7 @@ It is the main menu.
 
 ### Project Demo
 # Video
-<source src = "video.mp4" type ="video/mp4"/>
+[▶ Watch Video](videos/demo.mp4)
 *Explain what the video demonstrates*
 
 ## Team Contributions
