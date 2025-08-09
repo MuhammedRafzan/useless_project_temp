@@ -77,8 +77,8 @@ It is the main menu.
 *Explain what the video demonstrates*
 
 ## Team Contributions
-- Vivek Krishnan M J: [Specific contributions]
-- Muhammed Rafzan R: [Specific contributions]
+- Vivek Krishnan M J: develop the game in godot
+- Muhammed Rafzan R: refine the assets for game and handled github activities.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
