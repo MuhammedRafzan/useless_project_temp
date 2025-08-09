@@ -65,7 +65,7 @@ The game uses 2D scenes for all elements, UI nodes for player interaction, and G
 <img src="https://github.com/MuhammedRafzan/useless_project_temp/blob/main/screenshot1.jpg" alt="Description" width="300">
 Game after playing for a few seconds.Here convincing star randomly appears for 5-6 seconds.This is one of the three thing that can happen.One of it's include randomly going back to the main menu.
 
-<img src="https://github.com/MuhammedRafzan/useless_project_temp/blob/main/screenshot1.jpg" alt="Description" width="300">
+<img src="screenshot2.jpg" alt="Description" width="300">
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 <img src="https://github.com/MuhammedRafzan/useless_project_temp/blob/main/screenshot1.jpg" alt="Description" width="300">
