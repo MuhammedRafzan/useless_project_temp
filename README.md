@@ -27,9 +27,9 @@ For Software:
 - GDscript
 - GODOT
 ### Implementation
-For Software:Pla
+For Software:Tried to implement a multiplayer infinte map chess but because the game was becoming buggy I added more bugs and trolls to the point where the game became an unplayable buggy mess. Used 2d nodes and user interfaces to create the game and gdscript programming to crreate the main scene. It was then followed by creation of 2d scenes for characters. Lastly random function and audioplayer nodes were to make the game totally out of control. 
 # Installation
-[commands]
+
 
 # Run
 [commands]
